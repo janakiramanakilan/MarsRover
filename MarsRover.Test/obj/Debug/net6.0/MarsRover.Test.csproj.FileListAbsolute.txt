@@ -96,3 +96,5 @@ D:\VS Code\MarsRover\MarsRover.Test\obj\Debug\net6.0\refint\MarsRover.Test.dll
 D:\VS Code\MarsRover\MarsRover.Test\obj\Debug\net6.0\MarsRover.Test.pdb
 D:\VS Code\MarsRover\MarsRover.Test\obj\Debug\net6.0\MarsRover.Test.genruntimeconfig.cache
 D:\VS Code\MarsRover\MarsRover.Test\obj\Debug\net6.0\ref\MarsRover.Test.dll
+D:\VS Code\MarsRover\MarsRover.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VS Code\MarsRover\MarsRover.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
